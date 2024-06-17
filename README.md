@@ -1,0 +1,2 @@
+# BLACKLISTS
+Lista de Bloqueio
