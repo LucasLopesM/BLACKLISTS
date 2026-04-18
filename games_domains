@@ -37,7 +37,7 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
-192.168.0.10 takaiwebsite.neocities.org
+0.0.0.0 takaiwebsite.neocities.org
 0.0.0.0 0000100.com
 0.0.0.0 007arcadegames.com
 0.0.0.0 01-casino.com
